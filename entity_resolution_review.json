@@ -1,0 +1,468 @@
+[
+  {
+    "ambiguous_name": "Pétoubastis",
+    "possible_matches": [
+      "Pétoubastis Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Iset-Nofret",
+    "possible_matches": [
+      "Iset-Nofret II",
+      "Iset-Nofret Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Souphis",
+    "possible_matches": [
+      "Souphis Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Mérenrê",
+    "possible_matches": [
+      "Mérenrê II",
+      "Mérenrê Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Ptahchepsès",
+    "possible_matches": [
+      "Ptahchepsès Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Chepenoupet",
+    "possible_matches": [
+      "Chepenoupet II",
+      "Chepenoupet Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Ioupout",
+    "possible_matches": [
+      "Ioupout II",
+      "Ioupout Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Néfertari",
+    "possible_matches": [
+      "Néfertari II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Bentanat",
+    "possible_matches": [
+      "Bentanat II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Hattusili",
+    "possible_matches": [
+      "Hattusili III"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Khnoumhotep",
+    "possible_matches": [
+      "Khnoumhotep II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Djehoutymès",
+    "possible_matches": [
+      "Djéhoutymès IV"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Ahhotep",
+    "possible_matches": [
+      "Ahhotep III"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Takélot",
+    "possible_matches": [
+      "Takélot II",
+      "Takélot Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Hori",
+    "possible_matches": [
+      "Hori II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Amasis",
+    "possible_matches": [
+      "Amasis II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Hétep-Hérès",
+    "possible_matches": [
+      "Hétep-Hérès Ire",
+      "Hétep-Hérès II",
+      "Hétep-Hérès III"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Hénouttaouy",
+    "possible_matches": [
+      "Hénouttaouy Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Smendès",
+    "possible_matches": [
+      "Smendès Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Kaouab",
+    "possible_matches": [
+      "Kaouab Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Méresânkh",
+    "possible_matches": [
+      "Mérésânkh III",
+      "Mérésânkh Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Nimlot",
+    "possible_matches": [
+      "Nimlot Ier",
+      "Nimlot III",
+      "Nimlot II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Jéroboam",
+    "possible_matches": [
+      "Jéroboam Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Pépi",
+    "possible_matches": [
+      "Pépi II",
+      "Pépi Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Sheshonq",
+    "possible_matches": [
+      "Sheshonq II",
+      "Sheshonq Ier",
+      "Sheshonq V",
+      "Sheshonq III"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Bakenkhonsou",
+    "possible_matches": [
+      "Bakenkhonsou II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Osorkon",
+    "possible_matches": [
+      "Osorkon IV",
+      "Osorkon Ier",
+      "Osorkon I",
+      "Osorkon III",
+      "Osorkon II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Amenhotep",
+    "possible_matches": [
+      "Amenhotep III",
+      "Amenhotep IV",
+      "Amenhotep II",
+      "Amenhotep IV/Akhenaton",
+      "Amenhotep Ier",
+      "Amenhotep IV-Akhenaton"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Antef",
+    "possible_matches": [
+      "Antef III",
+      "Antef II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Nectanébo",
+    "possible_matches": [
+      "Nectanébo II",
+      "Nectanébo Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Psammétique",
+    "possible_matches": [
+      "Psammétique II",
+      "Psammétique III",
+      "Psammétique Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Tiyi",
+    "possible_matches": [
+      "Tiyi II",
+      "Tiyi Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Montouhotep",
+    "possible_matches": [
+      "Montouhotep IV",
+      "Montouhotep III",
+      "Montouhotep II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Aménophis",
+    "possible_matches": [
+      "Aménophis III"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Itakaÿt",
+    "possible_matches": [
+      "Itakaÿt Ire",
+      "Itakaÿt III"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Khentkaous",
+    "possible_matches": [
+      "Khentkaous III",
+      "Khentkaous Ire",
+      "Khentkaous II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Amenemhat",
+    "possible_matches": [
+      "Amenemhat III",
+      "Amenemhat II",
+      "Amenemhat IV",
+      "Amenemhat I",
+      "Amenemhat Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Khouit",
+    "possible_matches": [
+      "Khouit II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Moutnofret",
+    "possible_matches": [
+      "Moutnofret II",
+      "Moutnofret Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Séthi",
+    "possible_matches": [
+      "Séthi Ier",
+      "Séthi II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Inarôs",
+    "possible_matches": [
+      "Inaros Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Nékao",
+    "possible_matches": [
+      "Nékao Ier",
+      "Nékao II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Thoutmôsis",
+    "possible_matches": [
+      "Thoutmôsis IV",
+      "Thoutmôsis III",
+      "Thoutmôsis I",
+      "Thoutmôsis Ier",
+      "Thoutmôsis II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Iâhhotep",
+    "possible_matches": [
+      "Iâhhotep II",
+      "Iâhhotep Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Suppiluliuma",
+    "possible_matches": [
+      "Suppiluliuma Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Nebmaâtrênakht",
+    "possible_matches": [
+      "Nebmaâtrênakht II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Tefnakht",
+    "possible_matches": [
+      "Tefnakht II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Cambyse",
+    "possible_matches": [
+      "Cambyse II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Sechséchet",
+    "possible_matches": [
+      "Sechséchet Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Mursili",
+    "possible_matches": [
+      "Mursili III",
+      "Mursili II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Ahmôsis",
+    "possible_matches": [
+      "Ahmôsis Ier",
+      "Ahmôsis II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Horsaïset",
+    "possible_matches": [
+      "Horsaïset Ier"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Ptolémée",
+    "possible_matches": [
+      "Ptolémée Ier",
+      "Ptolémée V"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Méryrê",
+    "possible_matches": [
+      "Méryrê II"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Ramsès",
+    "possible_matches": [
+      "Ramsès IX",
+      "Ramsès Ier",
+      "Ramsès VI",
+      "Ramsès V",
+      "Ramsès VII",
+      "Ramsès VIII",
+      "Ramsès II",
+      "Ramsès III",
+      "Ramsès IV",
+      "Ramsès X"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Nitocris",
+    "possible_matches": [
+      "Nitocris Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Sésostris",
+    "possible_matches": [
+      "Sésostris III Khakaourê",
+      "Sésostris Ier",
+      "Sésostris II",
+      "Sésostris III"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  },
+  {
+    "ambiguous_name": "Takhat",
+    "possible_matches": [
+      "Takhat Ire"
+    ],
+    "reason": "Nom sans numéral, correspond à plusieurs entités numérotées possibles"
+  }
+]
